@@ -24,6 +24,8 @@ class Shop {
             total += p.price;
         }
         System.out.println("Total is " + total);
+
+        System.out.println("hejdå allihoppaa");
     }
 
 }
