@@ -25,7 +25,7 @@ class Shop {
         }
         System.out.println("Total is " + total);
 
-        System.out.println("hejdå allihoppaa");
+        System.out.println("hejdå allihoppa :)");
     }
 
 }
